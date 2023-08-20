@@ -28,9 +28,7 @@
     height: 3rem;
     border-radius: 0.75rem;
 }
-img{
-    display: block;
-}
+
 .image-box{
     overflow: hidden;
 }
